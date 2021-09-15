@@ -1,4 +1,4 @@
-//Saudações!
+Saudações !!
 
 Este código foi criado para monitorar a temperatura e umidade relativa do ar no interior de uma caixa.
 
